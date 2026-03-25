@@ -1,0 +1,1 @@
+!source scripts/tables/dept.sql
